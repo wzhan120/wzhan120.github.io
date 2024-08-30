@@ -1,0 +1,37 @@
+---
+title: "Wuyang Zhang"
+image: "Wuyang.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/wzhan120/"
+  - label: Twitter
+    url: "https://twitter.com/wzhan120"
+  - label: GitHub
+    url: "https://github.com/wzhan120"
+  - label: Email
+    url: "wzhan120@jhu.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Wuyang Zhang, MHS is a first-year PhD student at the Epidemiology Department of Johns Hopkins Bloomberg School of Public Health. His research interests include age-related hearing loss and other sensory loss, family caregiving, and social determinants of health. 
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+PhD in Epidemiology | September 2024 - Present
+
+**Johns Hopkins University** | Baltimore, MD
+
+MHS in Epidemiology | September 2020 - May 2022
+
+**Renmin University of China** | Beijing, China
+
+B.S. in Social Welfare | September 2016 - May 2020
+
+## Experience
+
+**Johns Hopkins Cochlear Center for Hearing and Public Health** | Research Data Analyst | July 2022 - July 2024
