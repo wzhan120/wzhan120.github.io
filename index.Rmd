@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/wzhan120"
   - label: Email
-    url: "wzhan120@jhu.edu"
+    url: "https://jhucochlearcenter.org/about/team/wuyang-zhang-mhs"
 output:
   postcards::trestles
 ---
